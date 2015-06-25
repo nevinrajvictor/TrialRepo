@@ -1,0 +1,4 @@
+GENERAL
+==========
+* work fine with eclipse plugin or tortoise-hg
+
